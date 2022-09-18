@@ -2,6 +2,18 @@
 
 An investigation into interesting programming languages.
 
+#### Agda
+
+https://github.com/agda/agda
+
+Agda is a dependently typed programming language / interactive theorem prover.
+
+#### Awk
+
+https://en.wikipedia.org/wiki/AWK
+
+AWK is a domain-specific language designed for text processing and typically used as a data extraction and reporting tool. Like sed and grep, it is a filter, and is a standard feature of most Unix-like operating systems. 
+
 #### APL
 
 https://xpqz.github.io/learnapl/intro.html
@@ -31,6 +43,14 @@ An advanced, purely functional programming language
 https://github.com/idris-lang/Idris2
 
 Idris is a purely functional programming language with first class types.
+
+#### Julia
+
+https://julialang.org/
+
+#### Lisp
+
+https://lisp-lang.org/
 
 #### Kind
 
