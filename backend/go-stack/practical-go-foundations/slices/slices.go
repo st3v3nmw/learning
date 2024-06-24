@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"slices"
 	"sort"
 )
 
@@ -28,4 +29,11 @@ func main() {
 
 	vs := []float64{2, 1, 3, 4}
 	fmt.Println(median(vs), vs)
+
+	s := []int{0, 1, 2, 3, 4}
+	s = append(s[:2], s[3:]...)
+	fmt.Println(s)
+
+	slices.Reverse(s)
+	fmt.Println(s)
 }
